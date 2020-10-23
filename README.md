@@ -1,5 +1,9 @@
-# literature
+# Literature
 Liste de papiers qui pourraient être utiles d'un point de vue méthodologique ou pour l'ensemble du projet
+
+## Biodiversity systems
+
+ Halvorsen, R, Skarpaas, O, Bryn, A, et al. 2020. Towards a systematics of ecodiversity: The EcoSyst framework. Global Ecol Biogeogr. 29: 1887– 1906. [https://doi.org/10.1111/geb.13164](https://doi.org/10.1111/geb.13164)
 
 ## Phenology
 
