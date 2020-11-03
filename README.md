@@ -19,3 +19,7 @@ Carmona, CP, Pärtel, M. Estimating probabilistic site‐specific species pools 
 
 Bruelheide, H., Jiménez‐Alfaro, B., Jandt, U. and Sabatini, F.M. 2020. Deriving site‐specific species pools from large databases. Ecography, 43: 1215-1228. [https://doi.org/10.1111/ecog.05172](https://doi.org/10.1111/ecog.05172)
 
+## Spatial Graph Theory
+Juan M Escamilla Molgora, Luigi Sedda, Peter M Atkinson, Biospytial: spatial graph-based computing for ecological Big Data, GigaScience, Volume 9, Issue 5, May 2020, giaa039 
+[https://doi.org/10.1093/gigascience/giaa039](https://doi.org/10.1093/gigascience/giaa039)
+
