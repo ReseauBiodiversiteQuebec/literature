@@ -5,9 +5,13 @@ Liste de papiers qui pourraient être utiles d'un point de vue méthodologique o
 
  Halvorsen, R, Skarpaas, O, Bryn, A, et al. 2020. Towards a systematics of ecodiversity: The EcoSyst framework. Global Ecol Biogeogr. 29: 1887– 1906. [https://doi.org/10.1111/geb.13164](https://doi.org/10.1111/geb.13164)
 
+## Biogeographical regionalization
+
+ Daru, B.H., Karunarathne, P, Schliep, K. 2020. phyloregion: R package for biogeographical regionalization and macroecology. Methods Ecol Evol. 11: 1483–1491. [https://doi.org/10.1111/2041-210X.13478](https://doi.org/10.1111/2041-210X.13478)
+
 ## Phenology
 
-Belitz, MW, Larsen, EA, Ries, L, Guralnick, RP. The accuracy of phenology estimators for use with sparsely sampled presence-only observations. Methods Ecol Evol. 2020. 11: 1273– 1285. [https://doi.org/10.1111/2041-210X.13448](https://doi.org/10.1111/2041-210X.13448) 
+Belitz, M.W., Larsen, E.A., Ries, L., Guralnick, R.P. 2020. The accuracy of phenology estimators for use with sparsely sampled presence-only observations. Methods Ecol Evol. 11: 1273–1285. [https://doi.org/10.1111/2041-210X.13448](https://doi.org/10.1111/2041-210X.13448) 
 
 ## Rarefaction / Species pool
 
