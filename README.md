@@ -26,3 +26,5 @@ Bruelheide, H., Jiménez‐Alfaro, B., Jandt, U. and Sabatini, F.M. 2020. Derivi
 Juan M Escamilla Molgora, Luigi Sedda, Peter M Atkinson, Biospytial: spatial graph-based computing for ecological Big Data, GigaScience, Volume 9, Issue 5, May 2020, giaa039 
 [https://doi.org/10.1093/gigascience/giaa039](https://doi.org/10.1093/gigascience/giaa039)
 
+## Taxonomy
+Norman, KEA, Chamberlain, S, Boettiger, C. taxadb: A high‐performance local taxonomic database interface. Methods Ecol Evol. 2020; 11: 1153– 1159. [https://doi.org/10.1111/2041-210X.13440](https://doi.org/10.1111/2041-210X.13440)
